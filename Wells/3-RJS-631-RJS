@@ -1,0 +1,19 @@
+# WELL TRACE FROM PETREL 
+# WELL NAME:              3-RJS-631-RJS
+# DEFINITIVE SURVEY:      Explicit survey 1
+# WELL HEAD X-COORDINATE: 293017.68864341 (m)
+# WELL HEAD Y-COORDINATE: 7397729.67830901 (m)
+# WELL DATUM (KB, Kelly bushing, from MSL): 12.00000000 (m)
+# WELL TYPE:              OIL, TEMP. ABANDONED
+# MD AND TVD ARE REFERENCED (=0) AT WELL DATUM AND INCREASE DOWNWARDS
+# ANGLES ARE GIVEN IN DEGREES
+# XYZ TRACE IS GIVEN IN COORDINATE SYSTEM BRAZIL SIRGAS 2000 (WGS84) UTM24S CM 39W (Brazil SIRGAS 2000 (WGS84) UTM24S Lon range 42W - 36W) [Chevron,720787]
+# AZIM_TN: azimuth in True North 
+# AZIM_GN: azimuth in Grid North 
+# DX DY ARE GIVEN IN GRID NORTH IN m-UNITS
+# DEPTH (Z, tvd_z) GIVEN IN m-UNITS
+#===============================================================================================================================================
+      MD            X            Y            Z           TVD           DX          DY        AZIM_TN        INCL         DLS        AZIM_GN
+#===============================================================================================================================================
+ 0.0000000000 293017.68864 7397729.6783 12.000000000 0.0000000000 0.0000000051 0.0000000009 0.8092105735 0.0000000000 0.0000000000 0.0000000001
+ 3491.0000000 293017.68864 7397729.6783 -3479.000000 3491.0000000 0.0000000051 0.0000000009 0.8092105735 0.0000000000 0.0000000000 0.0000000001
