@@ -47,7 +47,7 @@ for x in ['AZ','FL','GA','IA','ME','MI','NC','NV','OH','PA','TX','WI']:
 
 app.layout = html.Div([
     dbc.Row([
-        dbc.Col(html.H1("USA Elections 2020", style={'textAlign':'center'}), width=12)
+        dbc.Col(html.H1("US Elections 2020", style={'textAlign':'center'}), width=12)
     ]),
     dbc.Row([
         dbc.Col(radio_list, xs=4, sm=4, md=4, lg=2, xl=2),
