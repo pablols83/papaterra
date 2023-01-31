@@ -23,8 +23,8 @@ for s,v in zip(['AZ','FL','GA','IA','ME','MI','NC','NV','OH','PA','TX','WI'],
             dcc.RadioItems(
                 id=f'radiolist-{s}',
                 options=[
-                    {"label": "Dem", "value": "democrat"},
-                    {"label": "Rep", "value": "republican"},
+                    {"label": "D", "value": "democrat"},
+                    {"label": "R", "value": "republican"},
                     {"label": "NA", "value": "unsure"},
                 ],
                 value='unsure',
